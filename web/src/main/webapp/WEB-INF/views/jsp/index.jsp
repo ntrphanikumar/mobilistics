@@ -9,6 +9,6 @@
 </head>
 <body>
 <h1>Spring MVC</h1>
-Mobile logistics over web
+Mobile logistics over com.mobilistics.web
 </body>
 </html>
