@@ -1,0 +1,3 @@
+rootProject.name = 'mobilistics'
+include 'mplatform'
+project(':mplatform').projectDir = file('../platform')
